@@ -1,5 +1,9 @@
-[
-    "SampleLevel1",
-    "SAMPLELEVEL2",
-    "Sample_Level_3"
-]
+{
+    "name": "Test",
+    "creator": "The Creator",
+    "verifier": "The Verifier",
+    "id": 123456,
+    "percentToQualify": 100,
+    "verificationConnection": "https://youtube.com...",
+    "records": []
+}
